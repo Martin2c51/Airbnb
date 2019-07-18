@@ -1,19 +1,182 @@
-city,house_title,house_type,price,owner_name,no_of_reviews,rating,occupancy,occupancy_lst,no_of_guest,house_size,no_of_beds,no_of_baths,rooms,beds,bath
-Whistler,Blueberry comfy 3BR/2BA Condo opening to outside,Condominio completo,3060.0,Jim,46,5.0,"['8 huéspedes', '3 recámaras', '5 camas', '2 baños', '\U000f0004\n47 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '3 recámaras'"", "" '5 camas'"", "" '2 baños'"", "" '\\U000f0004\\n47 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '3 recámaras', '5 camas', '2 baños',3.0,5.0,2.0
-Whistler,"Painted Cliff Ski-in, Ski-out Luxury with serene mountain views, sleeps 6 (43)",Casa adosada completa,3133.0,Blackcomb Peaks Accommodation,24,5.0,"['8 huéspedes', '2 recámaras', '3 camas', '2 baños', '\U000f0004\n666 evaluaciones']","[""['8 huéspedes'"", "" '2 recámaras'"", "" '3 camas'"", "" '2 baños'"", "" '\\U000f0004\\n666 evaluaciones']""]",8.0, '2 recámaras', '3 camas', '2 baños',2.0,3.0,2.0
-Whistler,"Prime Ski-in Ski-out Location! Pool, Hot tubs, BBQ, sleeps 8 (458)",Condominio completo,3075.0,Blackcomb Peaks Accommodation,13,4.5,"['8 huéspedes', '2 recámaras', '4 camas', '2 baños', '\U000f0004\n666 evaluaciones']","[""['8 huéspedes'"", "" '2 recámaras'"", "" '4 camas'"", "" '2 baños'"", "" '\\U000f0004\\n666 evaluaciones']""]",8.0, '2 recámaras', '4 camas', '2 baños',2.0,4.0,2.0
-Whistler,"Forest Trails, 2.5 bedroom family home, walk to lift, free wifi",Casa adosada completa,3016.0,Blackcomb Peaks Accommodation,10,5.0,"['8 huéspedes', '3 recámaras', '5 camas', '2 baños', '\U000f0004\n666 evaluaciones']","[""['8 huéspedes'"", "" '3 recámaras'"", "" '5 camas'"", "" '2 baños'"", "" '\\U000f0004\\n666 evaluaciones']""]",8.0, '3 recámaras', '5 camas', '2 baños',3.0,5.0,2.0
-Whistler,"Prime Ski-in Ski-out Location! Pool, Hot tubs, sleeps 8 (349)",Condominio completo,2448.0,Blackcomb Peaks Accommodation,7,4.5,"['8 huéspedes', '2 recámaras', '4 camas', '2 baños', '\U000f0004\n666 evaluaciones']","[""['8 huéspedes'"", "" '2 recámaras'"", "" '4 camas'"", "" '2 baños'"", "" '\\U000f0004\\n666 evaluaciones']""]",8.0, '2 recámaras', '4 camas', '2 baños',2.0,4.0,2.0
-Whistler,"LUXURY Whistler Family Home: Hot Tub, Patio & BBQ",Casa adosada completa,5100.0,Alisha,82,5.0,"['8 huéspedes', '3 recámaras', '4 camas', '3 baños completos y uno de tocador', '\U000f0004\n200 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '3 recámaras'"", "" '4 camas'"", "" '3 baños completos y uno de tocador'"", "" '\\U000f0004\\n200 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '3 recámaras', '4 camas', '3 baños completos y uno de tocador',3.0,4.0,3.0
-Whistler,"3 bedroom, quiet, spacious, tasteful, convenient.",Casa adosada completa,5129.0,Andrew,63,5.0,"['8 huéspedes', '3 recámaras', '8 camas', '2 baños', '\U000f0004\n292 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '3 recámaras'"", "" '8 camas'"", "" '2 baños'"", "" '\\U000f0004\\n292 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '3 recámaras', '8 camas', '2 baños',3.0,8.0,2.0
-Whistler,NEW 2.5 BD/2 BTH!Walk to Gondola & FREE Parking!,Departamento entero,3016.0,Whistler Peak Management,176,5.0,"['10 huéspedes', '2 recámaras', '6 camas', '2 baños', '\U000f0004\n341 evaluaciones', '\U000f0019\nVerificado']","[""['10 huéspedes'"", "" '2 recámaras'"", "" '6 camas'"", "" '2 baños'"", "" '\\U000f0004\\n341 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",10.0, '2 recámaras', '6 camas', '2 baños',2.0,6.0,2.0
-Whistler,Central Village 3Br Luxury TH – Private Hot Tub,Casa adosada completa,4503.0,Catherine,16,5.0,"['8 huéspedes', '3 recámaras', '4 camas', '2 baños completos y uno de tocador', '\U000f0004\n16 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '3 recámaras'"", "" '4 camas'"", "" '2 baños completos y uno de tocador'"", "" '\\U000f0004\\n16 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '3 recámaras', '4 camas', '2 baños completos y uno de tocador',3.0,4.0,2.0
-Whistler,Whistler Winter Wonderland,Departamento entero,5756.0,Janie,26,5.0,"['8 huéspedes', '4 recámaras', '6 camas', '3 baños', '\U000f0004\n27 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '4 recámaras'"", "" '6 camas'"", "" '3 baños'"", "" '\\U000f0004\\n27 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '4 recámaras', '6 camas', '3 baños',4.0,6.0,3.0
-Whistler,Pool BBQ Airconditioning - 3BR 2BA - Best location,Condominio completo,3016.0,Parise,31,5.0,"['10 huéspedes', '3 recámaras', '3 camas', '2 baños', '\U000f0004\n37 evaluaciones', '\U000f0019\nVerificado']","[""['10 huéspedes'"", "" '3 recámaras'"", "" '3 camas'"", "" '2 baños'"", "" '\\U000f0004\\n37 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",10.0, '3 recámaras', '3 camas', '2 baños',3.0,3.0,2.0
-Whistler,Perfect location alongside village/private hot tub,Condominio completo,1865.0,Judy,28,5.0,"['8 huéspedes', '2 recámaras', '4 camas', '2 baños', '\U000f0004\n28 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '2 recámaras'"", "" '4 camas'"", "" '2 baños'"", "" '\\U000f0004\\n28 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '2 recámaras', '4 camas', '2 baños',2.0,4.0,2.0
-Whistler,Classic Log Chalet,Casa de campo completa,8743.0,Paul & Amy,108,5.0,"['Más de 16 huéspedes', '6 recámaras', '12 camas', '3 baños completos y uno de tocador', '\U000f0004\n147 evaluaciones', '\U000f1101\n3 Recomendaciones', '\U000f0019\nVerificado']","[""['Más de 16 huéspedes'"", "" '6 recámaras'"", "" '12 camas'"", "" '3 baños completos y uno de tocador'"", "" '\\U000f0004\\n147 evaluaciones'"", "" '\\U000f1101\\n3 Recomendaciones'"", "" '\\U000f0019\\nVerificado']""]",16.0, '6 recámaras', '12 camas', '3 baños completos y uno de tocador',6.0,12.0,3.0
-Whistler,Spacious and conveniently located Townhouse in quiet area directly across from the Village,Casa adosada completa,2710.0,Bob,15,5.0,"['8 huéspedes', '2 recámaras', '5 camas', '2 baños', '\U000f0004\n221 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '2 recámaras'"", "" '5 camas'"", "" '2 baños'"", "" '\\U000f0004\\n221 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '2 recámaras', '5 camas', '2 baños',2.0,5.0,2.0
-Whistler,"Treeline, Quiet wooded location, close to village and slope, 3 bdrm, sleeps 8",Casa adosada completa,3672.0,Blackcomb Peaks Accommodation,6,5.0,"['8 huéspedes', '3 recámaras', '5 camas', '2 baños', '\U000f0004\n666 evaluaciones']","[""['8 huéspedes'"", "" '3 recámaras'"", "" '5 camas'"", "" '2 baños'"", "" '\\U000f0004\\n666 evaluaciones']""]",8.0, '3 recámaras', '5 camas', '2 baños',3.0,5.0,2.0
-Whistler,ˑEight People Upper Village Tranquility,Condominio completo,3934.0,Bill,318,5.0,"['8 huéspedes', '1 recámara', '4 camas', '2 baños', '\U000f0004\n5015 evaluaciones', '\U000f0019\nVerificado']","[""['8 huéspedes'"", "" '1 recámara'"", "" '4 camas'"", "" '2 baños'"", "" '\\U000f0004\\n5015 evaluaciones'"", "" '\\U000f0019\\nVerificado']""]",8.0, '1 recámara', '4 camas', '2 baños',1.0,4.0,2.0
-Whistler,"Cedar Hollow Luxury 4 Bdrm, Ski-in Ski-out , Private Hot Tub, Steam Shower (8)",Casa adosada completa,6120.0,Blackcomb Peaks Accommodation,5,4.5,"['8 huéspedes', '4 recámaras', '6 camas', '3 baños', '\U000f0004\n666 evaluaciones']","[""['8 huéspedes'"", "" '4 recámaras'"", "" '6 camas'"", "" '3 baños'"", "" '\\U000f0004\\n666 evaluaciones']""]",8.0, '4 recámaras', '6 camas', '3 baños',4.0,6.0,3.0
-Whistler,Taluswood Creekside Retreat,Condominio completo,3235.0,Rhetick,26,5.0,"['8 huéspedes', '2 recámaras', '3 camas', '2 baños', '\U000f0004\n28 evaluaciones']","[""['8 huéspedes'"", "" '2 recámaras'"", "" '3 camas'"", "" '2 baños'"", "" '\\U000f0004\\n28 evaluaciones']""]",8.0, '2 recámaras', '3 camas', '2 baños',2.0,3.0,2.0
+city,house_title,house_type,price,owner_name,no_of_reviews,rating,no_of_guest,house_size,no_of_beds,no_of_baths,rooms,beds,bath
+Whistler,˙Studio Condo Whistler Village 223,Departamento entero,1241.0,Bill,392,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,Whistler Creekside Villa - single nights now open!,Departamento entero,1154.0,Beth,333,4.5,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Peak View Penthouse,Loft entero,1884.0,Jane & James,158,5.0,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Newly updated condo at Blackcomb base,Condominio completo,1460.0,Caroline,119,4.5,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Studio Condo Upper Village Tranquility,Departamento entero,1607.0,Bill,474,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,1 BR Townhome with Private Hot Tub - FREE PARKING,Casa adosada completa,2030.0,Ian,311,4.5,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,1 BR Townhouse with Private Hot Tub - FREE PARKING,Casa adosada completa,1884.0,Ian,317,4.5,5.0, '1 recámara', '3 camas', '1 baño',1.0,3.0,1.0
+Whistler,Modern Mountain Studio in the Village,Departamento con servicios completo,1884.0,Anya,132,5.0,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Symphony Studio in Whistler Village,Departamento entero,1753.0,Musubi,194,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy Whistler Village Studio,Condominio completo,1300.0,Tim And Andrea,308,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,⛰️ 1 Bdrm Modern Village Penthouse - view!,Departamento con servicios completo,2760.0,Victoria And Christian,428,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Ski in/out condo pool/hot tub, balcony, views",Departamento entero,1300.0,Annika,199,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,·Hotel Room Upper Village Tranquility,Alojamiento entero,1753.0,Bill,512,5.0,2.0, '1 cama', '1 baño', '\U000f0004\n5016 evaluaciones',1.0,1.0,45016.0
+Whistler,˰Free Parking Loft Studio Whistler Village,Departamento entero,1899.0,Bill,513,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Lovely Condo Right in the Village!!,Departamento entero,1198.0,Jessica,311,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,MAIN VILLAGE SQUARE = Super central location!,Departamento entero,1884.0,Clare And Mike,300,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,NEW 2.5 BD/2 BTH!Walk to Gondola & FREE Parking!,Departamento entero,1271.0,Whistler Peak Management,176,5.0,10.0, '2 recámaras', '6 camas', '2 baños',2.0,6.0,2.0
+Whistler,"Great Space, Great Location to Experience Whistler",Habitación privada en dormitorio para invitados,701.0,Jay,39,4.5,2.0, '1 recámara', '1 cama', '1 baño privado',1.0,1.0,1.0
+Whistler,˙Studio Condo Whistler Village 223,Departamento entero,1241.0,Bill,392,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,Whistler Creekside Villa - single nights now open!,Departamento entero,1154.0,Beth,333,4.5,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Peak View Penthouse,Loft entero,1884.0,Jane & James,158,5.0,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Newly updated condo at Blackcomb base,Condominio completo,1460.0,Caroline,119,4.5,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Studio Condo Upper Village Tranquility,Departamento entero,1607.0,Bill,474,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,1 BR Townhome with Private Hot Tub - FREE PARKING,Casa adosada completa,2030.0,Ian,311,4.5,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,1 BR Townhouse with Private Hot Tub - FREE PARKING,Casa adosada completa,1884.0,Ian,317,4.5,5.0, '1 recámara', '3 camas', '1 baño',1.0,3.0,1.0
+Whistler,Modern Mountain Studio in the Village,Departamento con servicios completo,1884.0,Anya,132,5.0,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Symphony Studio in Whistler Village,Departamento entero,1753.0,Musubi,194,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy Whistler Village Studio,Condominio completo,1300.0,Tim And Andrea,308,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,⛰️ 1 Bdrm Modern Village Penthouse - view!,Departamento con servicios completo,2760.0,Victoria And Christian,428,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Ski in/out condo pool/hot tub, balcony, views",Departamento entero,1300.0,Annika,199,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,·Hotel Room Upper Village Tranquility,Alojamiento entero,1753.0,Bill,512,5.0,2.0, '1 cama', '1 baño', '\U000f0004\n5016 evaluaciones',1.0,1.0,45016.0
+Whistler,˰Free Parking Loft Studio Whistler Village,Departamento entero,1899.0,Bill,513,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Lovely Condo Right in the Village!!,Departamento entero,1198.0,Jessica,311,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,MAIN VILLAGE SQUARE = Super central location!,Departamento entero,1884.0,Clare And Mike,300,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,NEW 2.5 BD/2 BTH!Walk to Gondola & FREE Parking!,Departamento entero,1271.0,Whistler Peak Management,176,5.0,10.0, '2 recámaras', '6 camas', '2 baños',2.0,6.0,2.0
+Whistler,"Great Space, Great Location to Experience Whistler",Habitación privada en dormitorio para invitados,701.0,Jay,39,4.5,2.0, '1 recámara', '1 cama', '1 baño privado',1.0,1.0,1.0
+Whistler,˙Studio Condo Whistler Village 223,Departamento entero,1241.0,Bill,392,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,Whistler Creekside Villa - single nights now open!,Departamento entero,1154.0,Beth,333,4.5,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Peak View Penthouse,Loft entero,1884.0,Jane & James,158,5.0,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Newly updated condo at Blackcomb base,Condominio completo,1460.0,Caroline,119,4.5,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Studio Condo Upper Village Tranquility,Departamento entero,1607.0,Bill,474,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,1 BR Townhome with Private Hot Tub - FREE PARKING,Casa adosada completa,2030.0,Ian,311,4.5,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,1 BR Townhouse with Private Hot Tub - FREE PARKING,Casa adosada completa,1884.0,Ian,317,4.5,5.0, '1 recámara', '3 camas', '1 baño',1.0,3.0,1.0
+Whistler,Modern Mountain Studio in the Village,Departamento con servicios completo,1884.0,Anya,132,5.0,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Symphony Studio in Whistler Village,Departamento entero,1753.0,Musubi,194,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy Whistler Village Studio,Condominio completo,1300.0,Tim And Andrea,308,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,⛰️ 1 Bdrm Modern Village Penthouse - view!,Departamento con servicios completo,2760.0,Victoria And Christian,428,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Ski in/out condo pool/hot tub, balcony, views",Departamento entero,1300.0,Annika,199,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,·Hotel Room Upper Village Tranquility,Alojamiento entero,1753.0,Bill,512,5.0,2.0, '1 cama', '1 baño', '\U000f0004\n5016 evaluaciones',1.0,1.0,45016.0
+Whistler,˰Free Parking Loft Studio Whistler Village,Departamento entero,1899.0,Bill,513,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Lovely Condo Right in the Village!!,Departamento entero,1198.0,Jessica,311,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,MAIN VILLAGE SQUARE = Super central location!,Departamento entero,1884.0,Clare And Mike,300,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,NEW 2.5 BD/2 BTH!Walk to Gondola & FREE Parking!,Departamento entero,1271.0,Whistler Peak Management,176,5.0,10.0, '2 recámaras', '6 camas', '2 baños',2.0,6.0,2.0
+Whistler,"Great Space, Great Location to Experience Whistler",Habitación privada en dormitorio para invitados,701.0,Jay,39,4.5,2.0, '1 recámara', '1 cama', '1 baño privado',1.0,1.0,1.0
+Whistler,˙Studio Condo Whistler Village 223,Departamento entero,1241.0,Bill,392,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,Whistler Creekside Villa - single nights now open!,Departamento entero,1154.0,Beth,333,4.5,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Peak View Penthouse,Loft entero,1884.0,Jane & James,158,5.0,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Newly updated condo at Blackcomb base,Condominio completo,1460.0,Caroline,119,4.5,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Studio Condo Upper Village Tranquility,Departamento entero,1607.0,Bill,474,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,1 BR Townhome with Private Hot Tub - FREE PARKING,Casa adosada completa,2030.0,Ian,311,4.5,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,1 BR Townhouse with Private Hot Tub - FREE PARKING,Casa adosada completa,1884.0,Ian,317,4.5,5.0, '1 recámara', '3 camas', '1 baño',1.0,3.0,1.0
+Whistler,Modern Mountain Studio in the Village,Departamento con servicios completo,1884.0,Anya,132,5.0,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Symphony Studio in Whistler Village,Departamento entero,1753.0,Musubi,194,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy Whistler Village Studio,Condominio completo,1300.0,Tim And Andrea,308,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,⛰️ 1 Bdrm Modern Village Penthouse - view!,Departamento con servicios completo,2760.0,Victoria And Christian,428,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Ski in/out condo pool/hot tub, balcony, views",Departamento entero,1300.0,Annika,199,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,·Hotel Room Upper Village Tranquility,Alojamiento entero,1753.0,Bill,512,5.0,2.0, '1 cama', '1 baño', '\U000f0004\n5016 evaluaciones',1.0,1.0,45016.0
+Whistler,˰Free Parking Loft Studio Whistler Village,Departamento entero,1899.0,Bill,513,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Lovely Condo Right in the Village!!,Departamento entero,1198.0,Jessica,311,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,MAIN VILLAGE SQUARE = Super central location!,Departamento entero,1884.0,Clare And Mike,300,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,NEW 2.5 BD/2 BTH!Walk to Gondola & FREE Parking!,Departamento entero,1271.0,Whistler Peak Management,176,5.0,10.0, '2 recámaras', '6 camas', '2 baños',2.0,6.0,2.0
+Whistler,"Great Space, Great Location to Experience Whistler",Habitación privada en dormitorio para invitados,701.0,Jay,39,4.5,2.0, '1 recámara', '1 cama', '1 baño privado',1.0,1.0,1.0
+Whistler,˙Studio Condo Whistler Village 201,Condominio completo,1607.0,Bill,138,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy studio on Main Street with hot tub and pool,Condominio completo,1533.0,Jenny And Roman,210,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,Whistler Village-Great location-Free Parking,Condominio completo,1446.0,Marco,119,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,˙Studio Condo Whistler Village 224,Departamento entero,1095.0,Bill,416,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,˙Studio Condo Whistler Village 207,Departamento entero,1899.0,Bill,281,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Newly renovated 1 Bdr townhouse,Casa adosada completa,1621.0,Karen And Gord,59,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"1BR Penthouse in Village w/ Pool, Hot Tub & Sauna",Condominio completo,1154.0,Tam,115,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Treetop Retreat- Private Deck w/ Incredible Views,Condominio completo,1738.0,Gabriela,425,5.0,4.0, '2 recámaras', '2 camas', '1 baño',2.0,2.0,1.0
+Whistler,Bright Studio on Main Street w pool/hot tub,Condominio completo,1533.0,Jenny And Roman,160,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Prime Ski-in Ski-out Location! Pool, Hot tubs, BBQ, sleeps 4 (116)",Condominio completo,1957.0,Blackcomb Peaks Accommodation,17,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,˯Studio Condo Whistler Village 422,Departamento entero,1899.0,Bill,325,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"BEAUTIFUL modern Whistler studio, 5 min from lifts",Departamento entero,1972.0,Eva,208,5.0,4.0, 'estudio', '2 camas', '1 baño'],0.5,2.0,1.0
+Whistler,COUPLES Creekside Mountain Getaway: Great Location,Condominio completo,1314.0,Kerry,196,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,Whistler Village Studio - MarketPlace Lodge 310,Condominio completo,1460.0,Kevin,124,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy Mountain View Studio in Whistler Village,Departamento entero,1899.0,Aran,130,5.0,3.0, 'estudio', '0 camas', '1 baño',0.5,0.0,1.0
+Whistler,Spacious 1 bedroom with Free parking and Cable TV,Condominio completo,1446.0,Alison,166,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Central Studio with Hot Tub/Pool,Departamento entero,1592.0,Mila,143,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,The Main Street Loft: Hot Tub + Parking,Loft entero,2030.0,Clare And Mike,250,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Whistler ski studio,Condominio completo,1154.0,Ruby,111,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Ski-in, Ski-Out Condo, The Aspens",Departamento con servicios completo,2045.0,Jayne,95,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Private and Comfortable,Habitación privada en hostal,1446.0,Alison,419,5.0,2.0, '1 recámara', '1 cama', '1 baño compartido',1.0,1.0,1.0
+Whistler,˙Studio Condo Whistler Village 209,Departamento entero,1899.0,Bill,378,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,"Large, bright main street studio with pool/hot tub",Condominio completo,1533.0,Jenny And Roman,166,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,North Village studio w/kitchen & Hot-tub,Casa adosada completa,1460.0,Michele,136,5.0,3.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,"Ski in Ski Out Totally Renovated , 2 BR, 2BA, 8ppl",Departamento entero,2337.0,Sergio,42,5.0,8.0, '2 recámaras', '5 camas', '2 baños',2.0,5.0,2.0
+Whistler,1 BR apt by Olympic plaza in villag,Departamento con servicios completo,1694.0,Marc,308,5.0,6.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Comfortable and Private 2,Habitación privada en hostal,1446.0,Alison,265,5.0,2.0, '1 recámara', '1 cama', '1 baño compartido',1.0,1.0,1.0
+Whistler,Minimalist Vibe with Amazing Mountain Views,Departamento con servicios completo,2614.0,Victoria And Christian,331,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Top-Floor 1BR Condo in Whistler Village w/ Parking,Departamento entero,1753.0,Pranjal,188,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"The Mini Chalet - Steps to Gondola, Lakes & Trails",Casa adosada completa,1446.0,Jodie & Ulla,103,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Modern Whistler Townhome!,Casa adosada completa,1753.0,Jenn,277,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,"True Ski-in Ski-out, Studio, Greystone Lodge",Condominio completo,1300.0,Lily,93,4.5,2.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Best Price , Great Location Cosy Village Studio",Condominio completo,1607.0,Angela & Jennie,132,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Village Townhome: Outdoor Hot Tub & Pool,Casa adosada completa,1753.0,Mike + Fallon,145,5.0,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Quiet Whistler Village Townhouse -FREE PARKING,Casa adosada completa,1344.0,Dean,131,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Gorgeous Whistler Studio next Nita Lake,Departamento entero,1373.0,Georgia,190,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Quiet Mountainside Escape: Ski/Bike In-Out,Condominio completo,1241.0,John & Hilary,118,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Townhouse with Private Hot Tub & Free Parking,Departamento entero,2410.0,Colleen,147,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,˙Studio Condo Whistler Village 401,Departamento entero,1899.0,Bill,272,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Whistler Village Studio, Pool & Hot Tub",Departamento con servicios completo,1168.0,Christian,87,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,*Rare* Tiny RV best view/location! Free park+bikes,Habitación privada en casa rodante,730.0,Kay,17,4.5,2.0, '1 cama', '1 baño compartido', '\U000f0004\n21 evaluaciones'],1.0,1.0,421.0
+Whistler,Whistler Cozy Cabin High up,Departamento entero,1446.0,Meghan,92,5.0,4.0, '1 recámara', '3 camas', '1 baño',1.0,3.0,1.0
+Whistler,Modern village studio - 5min walk to lifts!,Departamento con servicios completo,1446.0,Alex,115,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Private Mezzanine POD (single occupancy) in the centre of Whistler Village – 200m from the Whistler Village gondolas, with a lounge, cafe and rooftop bar.",Habitación compartida en hostal,979.0,Pangea,6,5.0,1.0, '1 recámara', '1 cama', '\U000f0004\n16 evaluaciones'],1.0,1.0,416.0
+Whistler,NEW RENOVATION 880 sqft /Walk to Hill/Free Parking,Departamento entero,1008.0,Whistler Peak Management,161,5.0,7.0, '1 recámara', '4 camas', '2 baños',1.0,4.0,2.0
+Whistler,Muk Muk Den | Hotel Room 224 | Whistler BC,Condominio completo,1055.0,Mike + Doris,164,4.5,3.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,"Heart of village, full condo, modern, hot tub",Condominio completo,1300.0,Sara,158,5.0,4.0, 'estudio', '1 cama', '1 baño completo y uno de tocador',0.5,1.0,1.0
+Whistler,STUNNING 1BR Apt at the Heart of Whistler Village,Condominio completo,1008.0,Rosario,71,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Crisp, Clean, Chic and Cozy in the Village",Departamento entero,2176.0,Michael,114,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Modern, just renovated Studio with Whistler flair",Condominio completo,1387.0,Eleni & Demetre,140,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,"Wolf's Den Creekside, steps from the gondola",Condominio completo,862.0,Jane,39,4.5,3.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Small, bright room in the Village",Habitación privada en departamento,1460.0,Alison And Cedric,133,5.0,2.0, '1 recámara', '1 cama', '1 baño compartido',1.0,1.0,1.0
+Whistler,Newly Renovated Whistler Studio next to Nita Lake,Departamento entero,1577.0,Georgia,210,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Village Studio - Great Location!!,Departamento entero,1329.0,Keiran,129,4.5,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy Creekside Studio - Walk to Lifts!,Departamento entero,1168.0,Allira,120,4.5,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"1BR Condo at Glacier Lodge,Ski in/out,Pool/Hot tub",Condominio completo,1314.0,Maria,135,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Whistler Modern, Ski In/Out, Hot Tub & Heated Pool",Departamento entero,2921.0,Aran,212,5.0,4.0, '1 recámara', '0 camas', '1 baño',1.0,0.0,1.0
+Whistler,˯One Bedroom Condo Whistler Village 409,Condominio completo,2118.0,Bill,292,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,New Condo in Whistler Celebration Plaza,Departamento entero,2118.0,Teresa,133,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Mountain View Penthouse 1 BR - Private Balcony,Condominio completo,2322.0,Susie And Kyle,123,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,1 BR Modern Townhome with Outdoor Hot Tub and Pool,Casa adosada completa,1592.0,Ian,136,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Ski in Ski out 1 bedoom+sofa bed, pool & hot tub",Condominio completo,1826.0,Angela & Jennie,179,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,1 BR/Bonus Loft/Wood fireplace/NETFLIX/washerdryer,Condominio completo,1183.0,Sophie,131,5.0,4.0, '1 recámara', '3 camas', '1 baño',1.0,3.0,1.0
+Whistler,GLACIER LODGE,Departamento entero,2191.0,Debbie,65,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy 1 Bedroom Apartment in Whistler (Creekside).,Departamento entero,1607.0,Lizzy,83,5.0,3.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Executive condo in the Village with unreal view!,Departamento entero,1826.0,Brock,82,5.0,5.0, '2 recámaras', '4 camas', '2 baños',2.0,4.0,2.0
+Whistler,"Cozy, 1BD Whistler Village Condo - FREE PARKING",Condominio completo,1081.0,Blackcomb Peaks Accommodation,50,5.0,4.0, '1 recámara', '0 camas', '1 baño',1.0,0.0,1.0
+Whistler,ˑHotel Room 2 Queen Beds Upper Village Tranquility,Departamento entero,1460.0,Bill,37,4.5,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Whistler Village North: 3 Level Modern Condo!,Casa adosada completa,2030.0,Clare And Mike,111,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Cozy 1 BR Condo sleeps 4, FREE Parking, ski in/out",Condominio completo,1899.0,Hayley & Micah,161,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Recently Renovated Unit with 270 deg view of Slope. Ski-in/Ski-out, Free Wi-Fi",Condominio completo,1592.0,Blackcomb Peaks Accommodation,3,4.5,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,1 BR Condo in The Aspens w/ Heated Pool & Hot Tubs,Departamento entero,1665.0,Pranjal,146,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Whistler Village Main St. Suite,Departamento entero,2264.0,Dan,90,5.0,3.0, 'estudio', '5 camas', '1 baño',0.5,5.0,1.0
+Whistler,Cozy Apartment in Creekside - walk to the lifts,Loft entero,1300.0,Christina,142,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Sunpath 1Br Central Village,Casa adosada completa,2176.0,Kerry,28,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Ski-in / Ski-out! Bright cozy with king bed, fireplace and heated floors (204)",Condominio completo,1957.0,Blackcomb Peaks Accommodation,7,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Prime location, 2Br/2Ba, with private HotTub & BBQ",Condominio completo,1533.0,Karel,68,5.0,5.0, '2 recámaras', '3 camas', '2 baños',2.0,3.0,2.0
+Whistler,Bright Open Studio in the Heart of Whistler,Departamento entero,2030.0,Tim And Andrea,161,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Cozy Whistler Village Studio - Free Parking!!!,Condominio completo,2410.0,Kristen,275,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Whistler Wanderlust Vacation. True Ski in Ski out!,Condominio completo,2614.0,Jason And Melissa,69,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,ˑStudio Condo Murphy Bed Upper Village Tranquility,Departamento entero,1899.0,Bill,68,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Village Marketplace FREE Park & Wifi-AirCondioning,Departamento entero,2118.0,Jacquie,99,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Prime Ski-in Ski-out Location! Pool, Hot tubs, BBQ, sleeps 4 (304)",Condominio completo,2030.0,Blackcomb Peaks Accommodation,16,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"Studio Suite, Whistler Village",Departamento entero,1548.0,Sandy,127,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Think Whistler, Village Flat, 5 min walk to lifts!",Departamento con servicios completo,1884.0,Alex,120,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"One Bedroom Condo, heart of Whistler Village.",Condominio completo,1446.0,Janet,115,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Updated cozy studio suite w/ kitchenette (2B),Condominio completo,1125.0,Helen,85,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,The Nest-Great Studio WhistlerVillage-free parking,Departamento entero,1738.0,Beau (That'S Our Rescue Boxer:),165,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,HEART of Whistler Village suite,Departamento con servicios completo,2090.0,May,164,4.5,5.0, '1 recámara', '3 camas', '1 baño completo y uno de tocador',1.0,3.0,1.0
+Whistler,The Stash - Boutique Mountain Enclave at Creekside,Condominio completo,1460.0,Jessica,105,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Central Studio with Pool/Hot Tub,Departamento entero,2059.0,Mila,145,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,Central Studio with Pool/Hot Tub/Sauna,Alojamiento entero,1183.0,Efosa,46,5.0,4.0, '2 camas', '1 baño', '\U000f0004\n119 evaluaciones',2.0,1.0,4119.0
+Whistler,Village North: Cozy studio with HT + Pool!,Departamento entero,1738.0,Clare And Mike,80,4.5,2.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Mountain Views-Village North 1 Bdrm-Free Parking,Casa adosada completa,1738.0,Anita & Brent,105,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Cozy studio steps from Blackcomb base,Condominio completo,2045.0,Caroline,122,5.0,2.0, 'estudio', '1 cama', '1 baño',0.5,1.0,1.0
+Whistler,"Whistler Village(Parking,WiFi,Outdoor Hot Tub)",Casa adosada completa,1899.0,Mike + Fallon,94,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Cozy Whistler Village Studio Condo,Condominio completo,1519.0,Dean,101,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"1br Whister Village Condo w/Pool, HotTub & Sauna",Condominio completo,1081.0,Dave,65,5.0,5.0, '1 recámara', '1 cama', '0 baños',1.0,1.0,0.0
+Whistler,BnB & eBike or Guided Mtn Adventure,Habitación privada en bed and breakfast,1889.0,EBike Ash,114,5.0,2.0, '2 recámaras', '3 camas', '2 baños',2.0,3.0,2.0
+Whistler,Newly renovated 3rd story suite w/ great views (A),Condominio completo,1300.0,Helen,76,5.0,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Prime Ski-in Ski-out Location! Pool, Hot tubs, BBQ, sleeps 4 (321)",Condominio completo,1957.0,Blackcomb Peaks Accommodation,9,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,"2 bedroom, quiet, well located, well furnished",Condominio completo,3052.0,Andrew,176,5.0,7.0, '2 recámaras', '7 camas', '2 baños',2.0,7.0,2.0
+Whistler,"Steps to Nita lake, beautiful renovated studio",Departamento entero,1344.0,Annie,55,5.0,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Market Pavilion 313 - Village North studio, close to everything, full kitchen",Condominio completo,1519.0,Whistler Superior,5,4.5,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Lofted 1 bedroom, 5 minutes from lifts.",Loft entero,1972.0,Chris,143,5.0,4.0, '1 recámara', '2 camas', '1 baño',1.0,2.0,1.0
+Whistler,Fully Renovated ! Ski-in Ski-out,Condominio completo,1826.0,Ruben,183,5.0,4.0, '1 recámara', '1 cama', '1 baño',1.0,1.0,1.0
+Whistler,Miga Retreat | Studio 225 | Whistler BC,Condominio completo,1117.0,Mike + Doris,169,4.5,3.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
+Whistler,"Best Location! 2B/2B, Pool, Private Hot Tub!",Casa adosada completa,2629.0,Angela & Jennie,60,5.0,6.0, '2 recámaras', '3 camas', '2 baños',2.0,3.0,2.0
+Whistler,Alpenglow Whistler Village Studio,Condominio completo,1300.0,Terrence & Yvonne,35,4.5,4.0, 'estudio', '2 camas', '1 baño',0.5,2.0,1.0
